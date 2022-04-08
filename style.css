@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding-top: 800px;
     text-align: center;
+     background: linear-gradient(#05ed90 0%,#deff05 100%);
 }
 .profile{
     width: 175px;
@@ -33,7 +34,7 @@ body {
     font-family: fantasy;
 }
 .links:hover{
-    background-color: blue;
+    background-color: mediumvioletred;
     
 }
 h1{
